@@ -1,0 +1,33 @@
+.centre{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(119, 190, 196);
+}
+
+.navbar{
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    height: 100px;
+    background-color: rgb(187, 201, 62);
+}
+
+.botbar{
+    position: fixed;
+    bottom: 0%;
+    left: 0%;
+    right: 0%;
+    height: 100px;
+    background-color: rgb(69, 177, 102);
+}
+
+.mid{
+    position: fixed;
+    top: 50%;
+    left: 0%;
+    right: 0%;
+    height: 100px;
+}
